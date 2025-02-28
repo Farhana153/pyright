@@ -1,0 +1,18 @@
+http://192.168.0.101:8501
+WEBSITE DEVELOPER
+import streamlit as st
+
+	
+
+st.set_page_config(
+	page_title="learner",
+	page_icon=":shark:",
+	layout="wide",
+	initial_sidebar_state="expanded",
+)
+#Header section
+st.subheader("streamlit Website")
+st.write("This is a simple website built using Streamlit.")
+st.title("Streamlit Website")
+st.write("I am passionate about finding  python and its futures more effective.")
+str
